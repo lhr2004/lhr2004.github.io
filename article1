@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>LHR-2004 Blog</title>
+<meta name="keywords" content="博客,GitHub,LHR-2004,lhr2004" />
+<meta name="description" content="One World One Dream" />
+<link href="css/styles.css" rel="stylesheet">
+<link href="css/view.css" rel="stylesheet">
+<!-- 返回顶部调用 begin -->
+<link href="css/lrtk.css" rel="stylesheet" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/js.js"></script>
+<!-- 返回顶部调用 end-->
+<!--[if lt IE 9]>
+<script src="js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+  <header> <img src="http://www.lmlblog.com/winter/templets/xq/images/logo.png" alt="LHR-2004 Blog" width="170" height="60">
+    <h1><a href="#">LHR-2004 Blog</a></h1>
+    <p>Hello, world</p>
+  </header>
+  <div class="b_nav"></div>
+  <div id="nav">
+    <ul>
+     <li><a href="#">网站首页</a></li>
+    </ul>
+    <!--获取当前页导航 高亮显示标题-->
+  </div>
+<!--header end-->
+<div id="mainbody">
+  <div class="blogs">
+    <div id="index_view">
+      <h2 class="t_nav"><a href="#">网站首页</a></h2>
+      <h1 class="c_titile">Blog Building&nbsp;</h1>
+      <p class="box">发布时间：2022.03.12<span>编辑：LHR-2004</span></p>
+      <p>&nbsp; &nbsp; &nbsp; &nbsp; 通过GitHub静态页面，LHR-2004&nbsp; Blog于今日正式正式上线。</p>
+      <p>&nbsp;</p>
+      <p>&nbsp; &nbsp; &nbsp; &nbsp; LHR-2004 Blog是个人博客，上传至GitHub Page发布，与新浪、腾讯、CSDN等平台无关；未使用博客编辑发布系统，所用工具为VScode文本编辑器与Dreamweaver网页工具 。因此，博客可能页面较为基础简陋，仅提供基本文章发布与交流。由于本人能力和时间有限与GitHub功能限制，此博客无法实现交互功能，所有出现的评论、阅读量、点赞均为艺术效果，不反映真实情况，望知晓。</p>
+      <p>&nbsp;</p>
+      <p>&nbsp; &nbsp; &nbsp; &nbsp; 在制作过程中，本博客使用到的主题模板来源为 MAOLAI BLOG ，在此对其表示感谢。</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+<div class="share"> 
+        <!-- Baidu Button BEGIN -->
+        <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more">分享到：</span> <a class="bds_qzone"></a> <a class="bds_tsina"></a> <a class="bds_tqq"></a> <a class="bds_renren"></a> <a class="bds_t163"></a> <a class="shareCount"></a> </div>
+        <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6574585" ></script> 
+        <script type="text/javascript" id="bdshell_js"></script> 
+        <script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script> 
+        <!-- Baidu Button END --> 
+      </div>
+</div>
+    <!--bloglist end-->
+    <aside style="margin:51px 0; ">
+<div class="sunnav">
+        <ul>
+          <li><a href="#" target="_blank" title="prime mumbers/π">prime mumbers/π</a></li>
+          <li><a href="#" target="_blank" title="单词处理">单词处理</a></li>
+          <li><a href="#" target="_blank" title="下载专用">下载专用</a></li>
+          <li><a href="#" target="_blank" title="life">life</a></li>
+        </ul>
+      </div>
+      <div class="tuijian">
+        <h2>栏目更新</h2>
+        <ol>
+          <li><span><strong>1</strong></span><a target="_blank" href="http://www.lmlblog.com/blog/summer/biye.html">Blog Building&nbsp;</a></li>
+          <li><span><strong>2</strong></span><a target="_blank" href="http://www.lmlblog.com/shuo/">敬请期待&nbsp;</a></li>
+          <li><span><strong>3</strong></span><a target="_blank" href="http://www.lmlblog.com/blog/8/">敬请期待&nbsp;</a></li>
+          <li><span><strong>4</strong></span><a target="_blank" href="http://www.lmlblog.com/winter/">敬请期待&nbsp;</a></li>
+        </ol>
+      </div>
+</aside>
+  </div>
+  <!--blogs end--> 
+</div>
+<!--mainbody end-->
+<footer>
+  <div class="footer-bottom">
+    <p>Powered by&nbsp;&nbsp;Git  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Theme by MAOLAI Blog</p>
+	<p></p>
+    <p>All rights reserved 2022</p>
+  </div>
+</footer>
+<!-- jQuery仿腾讯回顶部和建议 代码开始 -->
+<div id="tbox"> <a id="togbook" href="#"></a> <a id="gotop" href="javascript:void(0)"></a> </div>
+<!-- 代码结束 -->
+<script src="http://www.lmlblog.com/winter/templets/xq/js/snowy.js"></script>
+<script src="js/Snow.js"></script>
+<style type="text/css">
+.snow-container{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:100001;}
+</style>
+<div class="snow-container"></div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?c737dbf9f7869288ee612a6620a3916a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>
